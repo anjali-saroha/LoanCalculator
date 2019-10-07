@@ -19,5 +19,5 @@ Laon calculator fetch data from API and calculate loan according to provided amo
 * Babel core 7
 * Babel loader 8
 * Webpack 4
-* Sass Dependencies ([css|file|image-webpack|raw|sass|style|url] Loader)
+* Sass Dependencies ([css|file|image-webpack|url] Loader)
 
