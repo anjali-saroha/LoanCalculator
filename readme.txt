@@ -1,6 +1,5 @@
-# Shoes Shopping Application
-This design has been built using React library with React Bootstrap. 
-All the components are independent and holding their own states (I tried for most of them). 
+# Loan Calculator
+Laon calculator fetch data from API and calculate loan according to provided amount. 
 
 ## Instructions
 
@@ -16,9 +15,7 @@ All the components are independent and holding their own states (I tried for mos
 * React Router Dom 4.3.x
 * Bootstrap 4
 * React Bootstrap 0.32
-* React Slick for carousels
-* React Ui cards for product cards
-* React Modal for modal
+* React Axios
 * Babel core 7
 * Babel loader 8
 * Webpack 4
